@@ -1,2 +1,2 @@
-# k8s-project
-This repo has the k8s projects
+# CKA-QA
+This repo has the CKA Practies QA
